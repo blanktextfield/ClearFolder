@@ -1,0 +1,13 @@
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.exe
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.deps.json
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.runtimeconfig.json
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.dll
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\bin\Debug\netcoreapp3.1\ClearFolder.pdb
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.AssemblyInfo.cs
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.dll
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.pdb
+C:\Users\mammu\source\repos\ClearFolder\ClearFolder\obj\Debug\netcoreapp3.1\ClearFolder.genruntimeconfig.cache
